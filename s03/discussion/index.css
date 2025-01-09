@@ -1,7 +1,7 @@
 /* Universal Selctor */
 /*The "*" symbol is a universal selector and used to target all elements */
 * {
-	font-family: "Courier New",monospace ;
+	font-family: "Courier New", monospace;
 
 /* CSS Reset - removing all spaces */
 margin: 0;
